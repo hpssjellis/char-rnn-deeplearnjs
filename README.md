@@ -1,13 +1,34 @@
-char-rnn-tensorflow
+char-rnn-deeplearnjs
 ===
 
-[![Join the chat at https://gitter.im/char-rnn-tensorflow/Lobby](https://badges.gitter.im/char-rnn-tensorflow/Lobby.svg)](https://gitter.im/char-rnn-tensorflow/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-[![Coverage Status](https://coveralls.io/repos/github/sherjilozair/char-rnn-tensorflow/badge.svg)](https://coveralls.io/github/sherjilozair/char-rnn-tensorflow)
-[![Build Status](https://travis-ci.org/sherjilozair/char-rnn-tensorflow.svg?branch=master)](https://travis-ci.org/sherjilozair/char-rnn-tensorflow)
 
 Multi-layer Recurrent Neural Networks (LSTM, RNN) for character-level language models in Python using Tensorflow.
 
-Inspired from Andrej Karpathy's [char-rnn](https://github.com/karpathy/char-rnn).
+Inspired from  [Karpathy's char-rnn](https://github.com/karpathy/char-rnn).
+
+and by   [sherjilozair char-rnn](https://github.com/sherjilozair/char-rnn-tensorflow)
+
+
+Oct 29, 2017
+
+Just getting started on converting this to deeplearnjs
+
+any help would be appreciated
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The old readme file 
 
 ## Requirements
 - [Tensorflow 1.0](http://www.tensorflow.org)
