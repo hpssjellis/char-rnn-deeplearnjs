@@ -2,7 +2,7 @@ char-rnn-deeplearnjs
 ===
 
 
-Multi-layer Recurrent Neural Networks (LSTM, RNN) for character-level language models in Python using Tensorflow.
+Multi-layer Recurrent Neural Networks (LSTM, RNN) for character-level language models in Javascript using deeplearnjs
 
 Inspired from  [Karpathy's char-rnn](https://github.com/karpathy/char-rnn).
 
