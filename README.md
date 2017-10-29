@@ -22,6 +22,12 @@ Just getting started on converting this to deeplearnjs
 any help would be appreciated
 
 
+A good starting point is to probably port the tensorflow model into your web page
+
+Here is how to do it with Typescript
+
+https://deeplearnjs.org/demos/mnist/mnist.html
+
 
 
 
