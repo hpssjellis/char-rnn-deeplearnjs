@@ -1,5 +1,20 @@
 char-rnn-deeplearnjs
 ===
+Goal: Train a Character RNN entirely in the browser.
+
+
+
+Oct 29, 2017
+
+
+
+
+
+
+
+
+
+Oct 28, 2017
 
 
 Multi-layer Recurrent Neural Networks (LSTM, RNN) for character-level language models in Javascript using deeplearnjs
@@ -15,7 +30,6 @@ Deeplearnjs github at [https://github.com/PAIR-code/deeplearnjs](https://github.
 The char-rnn was brought up as an issue at [https://github.com/PAIR-code/deeplearnjs/issues/237](https://github.com/PAIR-code/deeplearnjs/issues/237)
 
 
-Oct 29, 2017
 
 Just getting started on converting this to deeplearnjs
 
