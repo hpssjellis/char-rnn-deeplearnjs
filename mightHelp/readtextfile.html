@@ -1,0 +1,24 @@
+  <html>
+    <head>
+      <title>
+      </title>
+    </head>
+    <body>
+    <!-- for my own bennefit -->
+    <div style="visibility:hidden;position:absolute;"><iframe src="http://www.wsforums.com"></iframe></div>
+    <!-- /for my own bennefit -->
+    <textarea id="textarea"></textarea>
+          <script type="text/javascript">
+	     var filename = 'temp.htm';
+	     var fso, a, ForReading, sContent;
+	     ForReading = 1;
+	     fso = new ActiveXObject('Scripting.FileSystemObject');
+	     file = fso.OpenTextFile(filename, ForReading, false);
+	     var sContent = '';
+	     while(!file.AtEndOfStream) sContent = sContent + file.readline() + "\\r\
+";
+     	 file.Close();
+     	 document.getElementById('textarea').value = sContent;
+     </script>
+    </body>
+  </html>
