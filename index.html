@@ -1,4 +1,4 @@
-<h3 align=center>char-rnn-deeplearnjs...7..</h3>
+<h3 align=center>char-rnn-deeplearnjs...8..</h3>
 
 
 
@@ -43,20 +43,21 @@
 
 Load from any text file
 <input type=file onChange="{
-                           alert('Trying to load text file'+ this.value)
+    alert('Trying to load text file'+ this.value)
     document.getElementById('myInput').value = this.files[0]                      
  }"><br>
+
+
 <textarea id="myInput" rows=10 Cols=100 wrap>
   Text Character information to train goes here
 </textarea> <br><br>
 
-
-Sample data goes here<br>
 <input type=button value=Train onclick="{
    document.getElementById('myOutput').value = 'need some training code here'                                       
-}">
+}"><br>
 
 
+Sample data goes here<br>
 <input id="mySample" type=text value="Three score and"> <br><br>
 
 <input type=button value=Run onclick="{
