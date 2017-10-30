@@ -1,0 +1,2 @@
+var uriContent = "data:application/octet-stream," + encodeURIComponent(fileContentsAsString);
+window.open(uriContent, 'Save Your File');
