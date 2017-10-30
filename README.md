@@ -1,11 +1,12 @@
 char-rnn-deeplearnjs
 ===
 Goal: 
-1. Train a Character RNN entirely in the browser, by loading the dataset using a textbox or file upload
-1. (Optional or later step )Save the trained model
-1. (Optional or later step )Load a test dataset
-1. Run the program giving it a seed and state how many result Characters you need
-1. Show the output in a second textbox
+1. Train a Character RNN entirely in the browser, by loading the dataset using a textbox or file upload or presaved use the tinyshakespeare data from the data folder
+1. (Optional or earlier step )Have a pre-trained model ready for use saved to the repository in the model folder 
+1. (Optional or later step )Be able to download or upload the trained model. Should default to running a pre-trained pre-saved model from the saved-models folder
+1. (Optional or later step )Load a test dataset and test it
+1. Run the program giving it a seed of characters and state how many result characters you want as output
+1. Show the output in a final textarea
 
 
 
