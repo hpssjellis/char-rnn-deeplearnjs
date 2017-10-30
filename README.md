@@ -1,9 +1,10 @@
 char-rnn-deeplearnjs
 ===
 Goal: 
-1. Train a Character RNN entirely in the browser, by loading the text from a textbox
-1. Save the trained dataset
-1. Sample the output using a seed amount of characters
+1. Train a Character RNN entirely in the browser, by loading the dataset using a textbox or file upload
+1. (Optional or later step )Save the trained model
+1. (Optional or later step )Load a test dataset
+1. Run the program giving it a seed and state how many result Characters you need
 1. Show the output in a second textbox
 
 
