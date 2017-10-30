@@ -1,4 +1,4 @@
-<h3 align=center>char-rnn-deeplearnjs...3..</h3>
+<h3 align=center>char-rnn-deeplearnjs...4..</h3>
 
 
 
@@ -35,15 +35,18 @@
 }">
        
 
-<div id="myDiv01">...</div><br>
+<div id="myDiv01">...</div><br><br>
 
 
 
 
 
-Character information to train goes here
-<input type=file onChange="{alert()}">
+Load from any text file
+<input type=file onChange="{
+    document.getElementById('myInput').value = this.value                         
+ }">
 <textarea id="myInput" rows=10 Cols=100 wrap>
+  Text Character information to train goes here
 </textarea> <br>
 
 
