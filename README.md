@@ -1,6 +1,10 @@
 char-rnn-deeplearnjs
 ===
-Goal: Train a Character RNN entirely in the browser.
+Goal: 
+1. Train a Character RNN entirely in the browser, by loading the text from a textbox
+1. Save the trained dataset
+1. Sample the output using a seed amount of characters
+1. Show the output in a second textbox
 
 
 
