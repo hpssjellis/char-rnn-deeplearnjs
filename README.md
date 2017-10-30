@@ -12,6 +12,8 @@ Goal:
 Oct 29, 2017
 
 
+Strangely stuck on uploading and downloading textareas to your computer. This should not be that hard.
+
 
 
 
