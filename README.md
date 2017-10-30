@@ -12,7 +12,7 @@ Goal:
 Oct 29, 2017
 
 
-Ok. Uploading and downloading files to textareas should be done with a server such as PHP or NOdejs. Just going to spend a bit of time to see if it can be done with pure javascript. The backup is to just copy and past from a text file into the textarea.
+Ok. Uploading and downloading files to textareas should be done with a server such as PHP or NOdejs. Just going to spend a bit of time to see if it can be done with pure javascript. The backup is to just copy and paste from a text file into the textarea.
 
 
 
